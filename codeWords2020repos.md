@@ -5,6 +5,7 @@
 ### Karen ann Donnachie | https://github.com/karenanndonnachie/C0DE-W0RD
 ### Andy Simionato | https://github.com/Simandy/codewords
 ## Student Gihub Repositories 2020
+### Peem Thaugsuban | https://github.com/ptpeem/EdmCodeWorld
 ### Fergus Jack Arundel | https://github.com/fergarundel/CODE-WORDS
 ### Finn Miles Arundel | https://github.com/FinnArundel/codewordsRMIT
 ### Ruby Brown | https://github.com/rubybrown101/codewordsstudio
